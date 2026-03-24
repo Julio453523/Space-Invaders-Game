@@ -1,5 +1,3 @@
-# Space-Invaders-Game
-
 # 🚀 Space Invader Game
 
 A classic Space Invader-style arcade game built using Python & Pygame.
